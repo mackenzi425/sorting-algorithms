@@ -1,6 +1,6 @@
 ## Sorting Algorithm Benchmark
 
-A C++ program that implements and compares several common sorting algorithms using execution time, coomparison counts, and swap/operation counts.
+A C++ program that implements and compares several common sorting algorithms using execution time, comparison counts, and swap/operation counts.
 
 The project was created to explore how different sorting algorithms behave when processing the same dataset and to compare their relative performance.
 
